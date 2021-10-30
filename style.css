@@ -31,7 +31,7 @@ p, a {
 }
 blink{animation: blink 1s infinite;}
 .container{
-  max-width: 600px;
+  max-width: 400px;
   margin: auto;
   height: 40vh;
   display: flex;
