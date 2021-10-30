@@ -30,7 +30,7 @@ p, a {
 	50% {opacity: 1}
 }
 .hidden {
-  visibility: hidden;
+  display: none;
 }
 blink{animation: blink 1s infinite;}
 .container{
