@@ -33,7 +33,7 @@ blink{animation: blink 1s infinite;}
 .container{
   max-width: 600px;
   margin: auto;
-  height: 70vh;
+  height: 40vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
