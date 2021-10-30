@@ -29,7 +29,7 @@ p, a {
 	49%{opacity: 0}
 	50% {opacity: 1}
 }
-#hidden {
+.hidden {
   display: none;
 }
 blink{animation: blink 1s infinite;}
