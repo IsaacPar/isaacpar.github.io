@@ -6,7 +6,7 @@ me.addEventListener('click', () => {
         title: "Find Me",
         width: "500px",
         height: "400px",
-        top: 1,
+        top: 61,
         bottom: 1,
         left: 1,
         right: 1,
