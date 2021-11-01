@@ -36,6 +36,7 @@ a {
   text-decoration: underline;
   text-decoration-color: greenyellow;
   color: greenyellow;
+  cursor: pointer;
 }
 @keyframes blink {
 	0% {opacity: 0}
@@ -61,6 +62,7 @@ blink{animation: blink 1s infinite;}
   flex-direction: column;
   justify-content: center;
   width: 100%;
+  cursor: default;
 }
 .wb-body{
   background-color: black;
