@@ -64,11 +64,17 @@ blink{animation: blink 1s infinite;}
   width: 100%;
   cursor: default;
 }
+noscript {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 15pt;
+  color: aliceblue;
+  background-color: red;
+}
 .wb-body{
   background-color: black;
 }
 .wb-title {
-  font-family: "Consolas";
+  font-family: "Ubuntu", sans-serif;
   font-size: 15pt;
   background-image: linear-gradient(to right , #001178 , #6600aa, #0000bd );
   background-repeat: no-repeat;
