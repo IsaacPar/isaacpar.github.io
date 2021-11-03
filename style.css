@@ -4,7 +4,7 @@ body {
   margin: 0px;
 }
 header.header {
-  background-image: linear-gradient(to bottom , #001178 , #6600aa );
+  background-image: linear-gradient(to bottom , #001178 ,#6600aa );
   background-repeat: no-repeat;
   margin: 0px;
 }
@@ -95,4 +95,23 @@ html, body, div {
   outline:0;
   font-size:100%;
   vertical-align:baseline;
-  }
+}
+.divider1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.divider1 svg {
+  position: relative;
+  display: block;
+  width: calc(117% + 1.3px);
+  height: 270px;
+}
+
+.divider1 .shape-fill {
+  fill: #6600AA;
+}
